@@ -1,6 +1,26 @@
 # CRICKET_ANALYST_COMPUTER_VISION
 Cricket analysis using computer vision is a cutting-edge technology that uses machine learning algorithms and computer vision techniques to provide real-time analysis and insights during cricket matches. By detecting and tracking the movements of the ball, players, and umpires, the system can identify key events, such as boundaries and wickets, and provide statistical analysis of the game. Coaches and players can use this technology to gain a deeper understanding of the game and improve their strategies and techniques. Overall, cricket analysis using computer vision has the potential to revolutionize the way cricket is played and analyzed at all levels.
 
+# Cricket analysis can involve a wide range of data depending on the type of analysis being conducted. However, some of the commonly used data for cricket analysis are:
+
+Player statistics: Information about the players' performances, such as batting average, bowling average, strike rate, economy rate, fielding statistics, etc.
+
+Match data: Details about the matches, including the location, date, teams, toss, inning scorecard, player of the match, etc.
+
+Team statistics: Data related to the team's overall performance, such as win/loss ratio, batting and bowling averages, run rate, net run rate, etc.
+
+Playing conditions: Information about the playing conditions, such as the type of pitch, weather, venue, etc.
+
+Historical data: Historical data about the team's and player's performance over time can provide insights into long-term trends and patterns.
+
+Opposition analysis: Information about the opposition team's players, their strengths and weaknesses, and their performance against specific teams or conditions.
+
+Shot/ Delivery Data: Data about the type of shots played by the batsmen, deliveries bowled by the bowlers, the direction, speed, etc.
+
+Player Fitness Data: Information about the fitness levels of the players can help to analyze their performance over the course of the game or tournament.
+
+
+
 # Cricket analytics using computer vision for live field tracking of players involves various parameters that are essential to ensure accurate tracking and analysis. Here are some of the important parameters required:
 
 Camera positioning: The positioning of cameras is crucial for accurate tracking of players. The cameras need to be placed in such a way that they capture the entire field of play and provide a clear view of each player.
